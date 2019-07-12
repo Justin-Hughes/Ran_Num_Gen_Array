@@ -1,0 +1,11 @@
+C:\Users\justi\source\repos\RandomNumberArray\RandomNumberArray\obj\Debug\netcoreapp2.1\RandomNumberArray.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\RandomNumberArray\RandomNumberArray\obj\Debug\netcoreapp2.1\RandomNumberArray.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\RandomNumberArray\RandomNumberArray\obj\Debug\netcoreapp2.1\RandomNumberArray.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\RandomNumberArray\RandomNumberArray\obj\Debug\netcoreapp2.1\RandomNumberArray.AssemblyInfo.cs
+C:\Users\justi\source\repos\RandomNumberArray\RandomNumberArray\bin\Debug\netcoreapp2.1\RandomNumberArray.deps.json
+C:\Users\justi\source\repos\RandomNumberArray\RandomNumberArray\bin\Debug\netcoreapp2.1\RandomNumberArray.runtimeconfig.json
+C:\Users\justi\source\repos\RandomNumberArray\RandomNumberArray\bin\Debug\netcoreapp2.1\RandomNumberArray.runtimeconfig.dev.json
+C:\Users\justi\source\repos\RandomNumberArray\RandomNumberArray\bin\Debug\netcoreapp2.1\RandomNumberArray.dll
+C:\Users\justi\source\repos\RandomNumberArray\RandomNumberArray\bin\Debug\netcoreapp2.1\RandomNumberArray.pdb
+C:\Users\justi\source\repos\RandomNumberArray\RandomNumberArray\obj\Debug\netcoreapp2.1\RandomNumberArray.dll
+C:\Users\justi\source\repos\RandomNumberArray\RandomNumberArray\obj\Debug\netcoreapp2.1\RandomNumberArray.pdb
